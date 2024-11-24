@@ -12,10 +12,6 @@ header {
     padding: 10px 20px;
 }
 
-nav {
-    margin-top: 10px;
-}
-
 nav a {
     text-transform: uppercase;
     color: yellow;
