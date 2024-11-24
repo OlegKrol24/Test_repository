@@ -1,0 +1,32 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    background: #146699;
+    color: beige;
+    padding: 10px 20px;
+}
+
+nav {
+    margin-top: 10px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: yellow;
+    text-decoration: none;
+    margin-right: 15px;
+    font-weight: bold;
+}
+
+nav a::hover {
+    text-decoration: underline;
+}
+
+main {
+    padding: 20px;
+}
